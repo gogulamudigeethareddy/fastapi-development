@@ -8,10 +8,8 @@ git commit -m "Adding updated code"
 ```bash
 git push
 ```
-## FastAPI
-https://fastapi.tiangolo.com/
 
-## Virtaul Environment
+# Virtual Environment
 
 https://python-poetry.org/docs/
 
@@ -24,8 +22,26 @@ poetry add fastapi
 poetry add pandas
 ```
 
-# To activate Virtual Environment
+## To activate Virtual Environment
 
 ```bash
 poetry shell
 ```
+
+# FastAPI
+https://fastapi.tiangolo.com/
+
+# To start the web server
+
+```bash
+uvicorn main:app
+```
+
+```bash
+uvicorn main:app --reload
+```
+
+# HTTP Methods
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
