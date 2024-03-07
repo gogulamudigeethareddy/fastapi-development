@@ -13,6 +13,8 @@ https://fastapi.tiangolo.com/
 
 ## Virtaul Environment
 
+https://python-poetry.org/docs/
+
 ```bash
 poetry init
 ```
