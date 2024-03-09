@@ -42,6 +42,7 @@ uvicorn main:app --reload
 ```
 
 # HTTP Methods
-
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 
+# Pydantic
+https://docs.pydantic.dev/latest/api/fields/
