@@ -6,13 +6,12 @@ authors = ["geethareddy <gogulamudigeethareddy@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.9"
 fastapi = "^0.110.0"
 pandas = "^2.2.1"
 uvicorn = "^0.27.1"
-psycopg2 = "^2.9.9"
-psycopg2-binary = "^2.9.9"
 sqlalchemy = "^2.0.28"
+psycopg2 = "^2.9.9"
 
 
 [build-system]
